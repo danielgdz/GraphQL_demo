@@ -1,0 +1,38 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Daniel GDZ",
+      "email": "danielgdz@gmail.com",
+      "age": 26,
+      "args": {
+        "id": 1,
+        "age": 26
+      }
+    },
+    {
+      "id": 2,
+      "name": "Gustavo DDZ",
+      "email": "gustavoddz@gmail.com",
+      "age": 25
+    },
+    {
+      "id": 3,
+      "name": "DDuenas GZ",
+      "email": "dduenasdz@gmail.com",
+      "age": 26
+    },
+    {
+      "id": 4,
+      "name": "Taskdln GZ",
+      "email": "lkansdasd@gmail.com",
+      "age": 27
+    },
+    {
+      "id": 5,
+      "name": ":LMASmsad adsl",
+      "email": "lkasdnklads@gmail.com",
+      "age": 28
+    }
+  ]
+}
